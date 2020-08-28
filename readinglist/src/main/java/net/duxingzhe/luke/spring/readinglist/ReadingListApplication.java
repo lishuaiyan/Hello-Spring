@@ -12,7 +12,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ReadingListApplication {
 
     public static void main(String[] args) {
-        // 负责启动引导程序
+        // 负责启动引导应用程序
         SpringApplication.run(ReadingListApplication.class, args);
     }
 
